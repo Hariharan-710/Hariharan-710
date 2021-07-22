@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hariharan-710
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ... TailWind CSS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Next Js
 - 📫 How to reach me ...hariharan98710@gmail.com
 
 <!---
